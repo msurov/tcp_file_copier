@@ -1,0 +1,2 @@
+storage=/tmp/received_files/dst
+port=16010
